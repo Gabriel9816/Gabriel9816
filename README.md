@@ -22,7 +22,7 @@
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://github.com/Gabriel9816/Gabriel9816/blob/main/RandomDevQuote.png?raw=true)
 
 ---
 
