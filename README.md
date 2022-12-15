@@ -26,4 +26,4 @@
 
 ## "Não comento sobre o código em si porque sinto que o código escrito corretamente é muito autodocumentado" - Gary Kildall
 
-[![](https://visitcount.itsvg.in/api?id=Gabriel9816&icon=2&color=1)]
+![](https://visitcount.itsvg.in/api?id=Gabriel9816&icon=2&color=1)
