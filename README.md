@@ -24,7 +24,6 @@
 
 ![](https://github.com/Gabriel9816/Gabriel9816/blob/main/RandomDevQuote.png?raw=true)
 
-"Não comento sobre o código em si porque sinto que o código escrito corretamente é muito autodocumentado" - Gary Kildall
----
+## "Não comento sobre o código em si porque sinto que o código escrito corretamente é muito autodocumentado" - Gary Kildall
 
-[![](https://visitcount.itsvg.in/api?id=Gabriel9816&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Gabriel9816&icon=2&color=1)]
