@@ -24,10 +24,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 😂 Random Dev Meme
-
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Gabriel9816&icon=2&color=1)](https://visitcount.itsvg.in)
